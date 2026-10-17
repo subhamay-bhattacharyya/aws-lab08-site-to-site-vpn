@@ -1,5 +1,5 @@
 {
-  "stackName": "github-repo-template-stack",
+  "stackName": "aws-lab08-site-to-site-vpn-stack",
   "templateFile": "cloudformation/template.yaml",
   "parameterFile": "cloudformation/parameters.json"
 }
